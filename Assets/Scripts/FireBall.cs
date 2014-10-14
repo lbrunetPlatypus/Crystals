@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class gitgit : MonoBehaviour {
+public class FireBall : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
